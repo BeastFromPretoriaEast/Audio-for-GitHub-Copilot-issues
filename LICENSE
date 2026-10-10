@@ -1,0 +1,26 @@
+Audio for GitHub Copilot
+Copyright (c) 2026 Markus Botha. All rights reserved.
+
+This extension is free to install and use, but it is not open source.
+
+You may:
+- install and use Audio for GitHub Copilot, free of charge, on any number of your own computers, for personal or work use.
+
+You may not, without written permission from the copyright holder:
+- copy, modify, translate or create works based on Audio for GitHub Copilot or any part of its source code, icons or text;
+- publish, distribute, sell, rent or sublicense Audio for GitHub Copilot or any modified version of it, including on the Visual
+  Studio Marketplace, Open VSX or any other extension store;
+- remove or change this notice, or the name, icons or branding of Audio for GitHub Copilot.
+
+The source code is included in the extension only because VS Code extensions need it to run; seeing it does not
+give you any of the rights above.
+
+Audio for GitHub Copilot is an independent extension. It is not made by, affiliated with or endorsed by GitHub, Microsoft or ElevenLabs.
+GitHub and GitHub Copilot are trademarks of GitHub, Inc.; ElevenLabs is a trademark of ElevenLabs.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permission requests, open an issue at https://github.com/BeastFromPretoriaEast/Audio-for-GitHub-Copilot-issues
